@@ -37,5 +37,3 @@ while(not validar):
                 print("\nError: Valor no permitido.")
     except ValueError:
         print ("\nError: Valor ingresado no corresponde a un valor numerico")
-        
-# Prueba
